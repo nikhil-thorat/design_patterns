@@ -2,3 +2,4 @@
 
 [x] FACTORY
 [x] PROTOTYPE
+[x] SINGLETON
