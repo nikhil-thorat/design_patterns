@@ -3,3 +3,5 @@
 [x] FACTORY
 [x] PROTOTYPE
 [x] SINGLETON
+
+[x] ADAPTER
