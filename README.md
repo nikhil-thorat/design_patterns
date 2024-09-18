@@ -6,3 +6,4 @@
 
 [x] ADAPTER
 [x] BRIDGE
+[x] COMPOSITE
