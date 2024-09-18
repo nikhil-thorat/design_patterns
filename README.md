@@ -5,3 +5,4 @@
 [x] SINGLETON
 
 [x] ADAPTER
+[x] BRIDGE
